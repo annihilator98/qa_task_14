@@ -1,0 +1,1 @@
+{"uuid":"a38425a6-bded-482f-99ac-071e63f645d0","name":"TestsVac","children":["1c412365-e227-4c41-b95c-fad3ac278b8c"],"befores":[{"name":"beforeAll","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1658166239032,"stop":1658166239175}],"afters":[],"start":1658166238996,"stop":1658166253126}

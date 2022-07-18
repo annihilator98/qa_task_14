@@ -1,0 +1,4 @@
+[2022-07-18T18:20:12.255Z] [WARNING] https://www.googleadservices.com/pagead/conversion.js 26 Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened.
+[2022-07-18T18:20:12.730Z] [SEVERE] chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+[2022-07-18T18:20:14.614Z] [WARNING] https://www.googleadservices.com/pagead/conversion.js 26 Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened.
+[2022-07-18T18:20:14.810Z] [SEVERE] chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
